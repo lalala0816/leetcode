@@ -1,11 +1,8 @@
 import java.util.Arrays;
 
 /**
- * Author: Õıø°≥¨
- * Date: 2015-06-17
- * Time: 20:27
- * Declaration: All Rights Reserved !!!
- */
+Author: ’‘¿Ú
+*/
 public class Solution {
     private static class Node implements Comparable<Node> {
         int val;
