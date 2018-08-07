@@ -1,8 +1,5 @@
 import java.util.Arrays;
 
-/**
-Author: ’‘¿Ú
-*/
 public class Solution {
     private static class Node implements Comparable<Node> {
         int val;
